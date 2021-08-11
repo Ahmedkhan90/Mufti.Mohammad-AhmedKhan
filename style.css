@@ -1,0 +1,11 @@
+.navbar , .nav{
+ color: blue !important;
+}
+img{
+    width: 400px;
+    margin-left: 600px;
+    margin-top: -20px;
+}
+h1{
+    margin-bottom: 100px;
+}
